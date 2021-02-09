@@ -1,4 +1,4 @@
-### Hi there 👋
+### working on nem .. some stupid BOT!
 
 <!--
 **aecisiatiii/aecisiatiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
